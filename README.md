@@ -1,15 +1,13 @@
-# hoc-mermaid-nk
-
 ```mermaid
 graph TD
-    A[Bắt đầu] --> B[GitHub tự động hỗ trợ]
-    B --> C[Không cần cài đặt]
-    C --> D[Xem ngay kết quả]
-
-    style A fill:#D8BFD8,stroke:#7A5E8C,color:#000000
-    style B fill:#D8BFD8,stroke:#7A5E8C,color:#000000
-    style C fill:#D8BFD8,stroke:#7A5E8C,color:#000000
-    style D fill:#D8BFD8,stroke:#7A5E8C,color:#000000
-
-
+    A[Hình chữ nhật]
+    B(Hình bo góc)
+    C([Hình stadium])
+    D[[Hình đặc biệt]]
+    E[(Database)]
+    F((Hình tròn))
+    G{Hình thoi}
+    H{{Hình lục giác}}
+    I[/Hình thang/]
+    J[\Hình thang ngược\]
 ```
